@@ -5,7 +5,7 @@ using Model;
 using Model.Config;
 using UnityEngine;
 using Utilities;
-
+//Comment for example FORK
 public class EnterPoint : MonoBehaviour
 {
     [SerializeField] private Settings _settings;
